@@ -157,6 +157,11 @@
   
  }
 
+ #header .bottom-header .right-menu-bar .saved-items .right-items
+ .top-link{
+    color: var(--dark-color);
+ }
+
  #header .bottom-header .right-menu-bar .user-account{
     position: relative;
     transition: all 0.3s ease-in;
